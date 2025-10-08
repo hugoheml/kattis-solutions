@@ -1,3 +1,3 @@
 [workspace]
-members = [ "backspace","everywhere", "freefood", "oddities", "recount"]
+members = [ "backspace","everywhere", "freefood", "integerlists", "oddities", "recount"]
 resolver = "2"

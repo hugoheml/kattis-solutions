@@ -15,6 +15,10 @@ name = "freefood"
 version = "0.1.0"
 
 [[package]]
+name = "integerlists"
+version = "0.1.0"
+
+[[package]]
 name = "oddities"
 version = "0.1.0"
 
